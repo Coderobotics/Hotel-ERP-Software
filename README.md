@@ -5,6 +5,8 @@ Hotel Express is a comprehensive hotel management system has all the features re
 
 Master Entries module has Hotel Master, Hotel Plan Master, Currency Master, ID Type, Guest, Room Type, Room Master, Extra Bed, Extra Person, Banquet Hall Master, Garden Master, Food Category, Table Master, Food Master, Liquor Category, Liquor Quantity, Liquor Master, Liquor Pricing, Laundry Master, Expense Type, Expense Master, Tax Master. Accounting Module has Room Services, Check IN, Check out, Room Reservations, Banquet Hall Reservations, Wedding Garden Reservations, Guest Account Ledger, Laundry Billing, Stock Entry, Purchase Inventory, Transactions, Vouchers, Employee Account Registration, Purchase Daybook etc. Hotel Management ERP Utilities module has User Rights Management, Users Registration, User Contacts, Change Password, Logs, SQL Server Setting, Email Setting, Database backup and restore. Records module has Employee Attendance, Employee Payment, Payroll Advance, Current Advance, Guest Account Ledger, Guest Current Balance, Deduction, Check IN and Check OUT, Room Reservations, Room Orders, Purchased Inventory, Restaurant Billing etc. Reports has Rooms, Food Menu Items, Liquor Menu Items, Guest Profile and account ledger, Current Advance, Purchased Inventory, Restaurant Billing, Room Orders, Room Reservations, Salary Slips, Restaurant Billing KOT etc.
 
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738538900_5abec1cb1bcab71f9a3f.webp">
+
 <b>Hotel Management ERP Software has the following exciting features:</b>
 
 <ul>
@@ -30,5 +32,15 @@ Master Entries module has Hotel Master, Hotel Plan Master, Currency Master, ID T
 <li>Database Backup & Restore</li>
 <li>Reports</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/hotel-management-erp/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/hotel-express
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
